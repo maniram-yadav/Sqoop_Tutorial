@@ -10,4 +10,4 @@ instruct Sqoop to move data from Oracle, Teradata or other relational databases 
  
  >____________
  
- So In simple language Sqoop is tool which is used for moving data from HDFS to RDBMS and vice versa.
+ So , In simple language we can say that Sqoop is tool which is used for moving data from HDFS to RDBMS and vice versa also.
