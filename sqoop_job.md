@@ -27,4 +27,8 @@ Which can be used for future.
 Some of the useful sqoop command and their uses are as follows ..
 
 
-**--create**  : used for creating Sqoop Jobs
+**--create**  : used for creating Sqoop Jobs with specified name.
+**--delete**  :  Deletes a saved job with specified name.
+**--exec**  :  Executes the saved job.
+**--show**  :  Show the save job configuration
+**--list**  :  Lists all the saved jobs.
