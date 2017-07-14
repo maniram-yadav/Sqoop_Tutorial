@@ -6,7 +6,7 @@ working on sqoop tools
 **Query Format**
 
 ```
-sqoop job --create myjob  --connect < Your Database Url> --username < User name >
+sqoop job --create <job name>  --connect < Your Database Url> --username < User name >
 --password <your daatbase password>  --table < Database table name > 
 --target-dir <path to HDFS file>
 ```
